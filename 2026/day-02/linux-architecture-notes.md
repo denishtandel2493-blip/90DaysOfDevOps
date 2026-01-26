@@ -21,3 +21,4 @@ systemd is the init system and service manager used by most modern Linux distrib
 
 systemd is used to manage system setting and services.systemd organizes task into componets calleds units and groups of units into targets.
 
+systemd which include essential functionalities such as service management, dependency tracking, logging, resource management, socket activation and system control
