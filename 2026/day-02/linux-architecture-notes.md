@@ -1,8 +1,8 @@
 KERNEL
 
-kernel is a heart os operating system, Application Doesn't have access to the H/W it is through kernal only that they can get access to the Hardware.
+kernel is a heart of operating system, Application Doesn't have access to the H/W it is through kernal only that they can get access to the Hardware.
 
-kernal is a central components of operating system, that manages resources and access bridge between hardware and sodtware.
+kernal is a central components of operating system, that manages resources and access bridge between hardware and software.
 
 USER SPACE
 
