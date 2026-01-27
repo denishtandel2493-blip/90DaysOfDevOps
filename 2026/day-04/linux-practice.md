@@ -10,6 +10,21 @@ Basic linux commands
 
   <img width="471" height="116" alt="image" src="https://github.com/user-attachments/assets/a570db88-b9f1-4928-86c9-2473aaf7a9bb" />
 
+  systemd service
+
+  - ``systemctl status sshd.service`` --> Displays the detailed status of a specific service, including whether it is active (running) or inactive (stopped), and recent log entries.
+
+    <img width="779" height="244" alt="image" src="https://github.com/user-attachments/assets/1edc77dd-8239-4d75-af7b-e4eec63e4498" />
+
+  
+- ``systemctl list-units`` --> Shows a list of all active systemd units (services, mount points, sockets, etc.)
+
+  <img width="1880" height="229" alt="image" src="https://github.com/user-attachments/assets/f63e4ed9-2fe1-4eb4-9300-30c29d6b3910" />
+
+
+
+  
+
   
 
 
