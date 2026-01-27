@@ -14,4 +14,24 @@ Linux-Cheatsheet
 
 2) File system command:
 
-   1.
+   1. pwd (present working directory) :- The pwd command shows the current location in the system.
+  
+   2. ls (list files and directories) :- The ls command is used to list the files and directories in the current directory.
+  
+   3. cd (change directory) :- The cd command is used to move between folders.
+  
+   4. mkdir (make directory) :- allows you to create new folders within your existing file system.
+  
+   5.  rmdir (remove directory) :- remove directory permanaemtally.
+   
+3) Networking troubleshooting command: 
+
+    1. ping :- The ping command is used to ensure that a computer can communicate with a specified device over the network.
+  
+    2. ifconfig :- Display all network interface with IP addresses.
+  
+    3. hostname :- The hostname command is used to display the current hostname of the system.
+  
+    4. host domain :- Display DNS IP address for Domain.
+  
+    5. wget LINK :- Download from location LINK.
