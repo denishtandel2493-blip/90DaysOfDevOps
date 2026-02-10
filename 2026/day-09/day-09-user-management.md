@@ -14,3 +14,10 @@ Assign Users to Gruops
     Adding Users to Groups Using this Command
     # sudo gpasswd -a user_name group_name
 <img width="372" height="190" alt="image" src="https://github.com/user-attachments/assets/069f030f-0ed8-4c91-bcc1-59fe4c5fc712" />
+
+Shared Directory and Set group Ownership
+
+    Create a new directory and set the gruop ownership to developers using this command
+    # sudo chgrp group_name file_name
+<img width="555" height="305" alt="image" src="https://github.com/user-attachments/assets/2dfb19a6-a457-48e9-acb7-0eaaed63c139" />
+
