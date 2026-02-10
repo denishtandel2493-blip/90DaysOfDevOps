@@ -22,5 +22,7 @@ Shared Directory and Set group Ownership
 <img width="555" height="305" alt="image" src="https://github.com/user-attachments/assets/2dfb19a6-a457-48e9-acb7-0eaaed63c139" />
     
     Set permissions to 775 (rwxrwxr-x) directory and create a file as tokyo and berlin user
-![Uploading image.png…]()
+<img width="660" height="456" alt="image" src="https://github.com/user-attachments/assets/bc87151b-ef26-43f5-8d1a-0eddee652f97" />
+
+
 
