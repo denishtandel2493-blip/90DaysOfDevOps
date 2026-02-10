@@ -8,3 +8,9 @@ Create Groups
     Groups in Linux allow administrators to organize and control user access to various resources and files.
     #sudo groupadd developers
 <img width="187" height="131" alt="image" src="https://github.com/user-attachments/assets/547129d3-bfdb-4836-b076-2ad9ebc3a20a" />
+
+Assign Users to Gruops
+
+    Adding Users to Groups Using this Command
+    # sudo gpasswd -a user_name group_name
+<img width="372" height="190" alt="image" src="https://github.com/user-attachments/assets/069f030f-0ed8-4c91-bcc1-59fe4c5fc712" />
