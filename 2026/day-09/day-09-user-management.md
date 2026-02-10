@@ -20,4 +20,7 @@ Shared Directory and Set group Ownership
     Create a new directory and set the gruop ownership to developers using this command
     # sudo chgrp group_name file_name
 <img width="555" height="305" alt="image" src="https://github.com/user-attachments/assets/2dfb19a6-a457-48e9-acb7-0eaaed63c139" />
+    
+    Set permissions to 775 (rwxrwxr-x) directory and create a file as tokyo and berlin user
+![Uploading image.png…]()
 
