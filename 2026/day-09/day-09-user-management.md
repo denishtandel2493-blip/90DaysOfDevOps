@@ -6,4 +6,5 @@ Create Users
 Create Groups
 
     Groups in Linux allow administrators to organize and control user access to various resources and files.
+    #sudo groupadd developers
 <img width="187" height="131" alt="image" src="https://github.com/user-attachments/assets/547129d3-bfdb-4836-b076-2ad9ebc3a20a" />
