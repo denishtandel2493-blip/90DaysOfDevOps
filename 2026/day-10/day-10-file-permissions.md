@@ -14,3 +14,7 @@ Create Files
 <img width="348" height="28" alt="image" src="https://github.com/user-attachments/assets/033c88b1-8541-4e3f-bc2d-1d466f3bcd58" />
 
 <img width="497" height="50" alt="image" src="https://github.com/user-attachments/assets/233d7605-f347-44f8-8dd7-20a08e386240" />
+
+Display First and Last 5 Lines of /etc/passwd using head and tail command:
+<img width="827" height="259" alt="image" src="https://github.com/user-attachments/assets/131fa9de-67ec-4bf7-b0a7-4a9228fa650f" />
+
