@@ -15,6 +15,12 @@ Create Files
 
 <img width="497" height="50" alt="image" src="https://github.com/user-attachments/assets/233d7605-f347-44f8-8dd7-20a08e386240" />
 
-Display First and Last 5 Lines of /etc/passwd using head and tail command:
+    Display First and Last 5 Lines of /etc/passwd using head and tail command:
 <img width="827" height="259" alt="image" src="https://github.com/user-attachments/assets/131fa9de-67ec-4bf7-b0a7-4a9228fa650f" />
+
+    Understand File Permissions: devops.txt file owner and group read/write permissiom not execute, other only read permission.
+    note.txt file owner and group read/write permissiom not execute, other only read permission.
+    script.sh only read permission.
+<img width="745" height="88" alt="image" src="https://github.com/user-attachments/assets/1fa3e143-969c-47ff-8342-eb17a329816c" />
+
 
