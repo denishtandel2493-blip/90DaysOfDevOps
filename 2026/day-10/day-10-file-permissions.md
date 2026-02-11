@@ -23,4 +23,11 @@ Create Files
     script.sh only read permission.
 <img width="745" height="88" alt="image" src="https://github.com/user-attachments/assets/1fa3e143-969c-47ff-8342-eb17a329816c" />
 
+    Modify File Permissions like file will be executable, read-only and owner:read,write , Group:only-read, Other: none.
+    Create New Directory with 775 permission. 
+<img width="818" height="144" alt="image" src="https://github.com/user-attachments/assets/8a816dce-ec31-4acf-b6c4-4db8413a560d" />
+<img width="825" height="47" alt="image" src="https://github.com/user-attachments/assets/6c3fdb54-0378-44aa-8b10-1757f839c68a" />
+
+
+
 
