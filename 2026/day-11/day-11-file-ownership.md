@@ -17,4 +17,10 @@
 <img width="829" height="45" alt="image" src="https://github.com/user-attachments/assets/ef40d888-9970-45aa-a9ba-7da8122e0aee" />
 <img width="823" height="44" alt="image" src="https://github.com/user-attachments/assets/797d8b35-d8c7-4141-85cb-f87bed932104" />
 
+## Recursive Ownership
+
+    Change ownership of entire heist-project/ directory using recursive flag (-R):
+<img width="826" height="588" alt="image" src="https://github.com/user-attachments/assets/2a02b738-33d5-4668-87df-7555f0578827" />
+
+
 
