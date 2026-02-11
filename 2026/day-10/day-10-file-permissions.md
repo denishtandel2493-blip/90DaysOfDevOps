@@ -10,5 +10,7 @@ Create Files
 
     Create file Using vim command with some content: echo "HelloDevops" and set permission only read only
 <img width="359" height="184" alt="image" src="https://github.com/user-attachments/assets/d1c40649-1bd0-4ffc-b08b-4e415bba538c" />
+
 <img width="348" height="28" alt="image" src="https://github.com/user-attachments/assets/033c88b1-8541-4e3f-bc2d-1d466f3bcd58" />
+
 <img width="497" height="50" alt="image" src="https://github.com/user-attachments/assets/233d7605-f347-44f8-8dd7-20a08e386240" />
