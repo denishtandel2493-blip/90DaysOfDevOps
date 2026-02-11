@@ -4,6 +4,11 @@ Create Files
     # touch devops.txt
 <img width="542" height="157" alt="image" src="https://github.com/user-attachments/assets/91ef97fa-0334-4ff4-b7f6-144a1765cc25" />
 
-    Create file with some content using cat or echo
+    Create file with some content using cat or echo and also read file using cat command
 <img width="820" height="300" alt="image" src="https://github.com/user-attachments/assets/f7ce0283-22c1-4d37-9a88-45d0a929286c" />
 <img width="734" height="65" alt="image" src="https://github.com/user-attachments/assets/bc1bcc95-63ba-4358-b558-8b33e28bcf49" />
+
+    Create file Using vim command with some content: echo "HelloDevops" and set permission only read only
+<img width="359" height="184" alt="image" src="https://github.com/user-attachments/assets/d1c40649-1bd0-4ffc-b08b-4e415bba538c" />
+<img width="348" height="28" alt="image" src="https://github.com/user-attachments/assets/033c88b1-8541-4e3f-bc2d-1d466f3bcd58" />
+<img width="497" height="50" alt="image" src="https://github.com/user-attachments/assets/233d7605-f347-44f8-8dd7-20a08e386240" />
