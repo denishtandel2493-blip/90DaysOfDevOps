@@ -23,3 +23,10 @@
 <img width="570" height="28" alt="image" src="https://github.com/user-attachments/assets/fb9e393f-9b79-4578-afdc-bfd31e8297a3" />
 <img width="569" height="130" alt="image" src="https://github.com/user-attachments/assets/02d21dcf-5521-4c7f-ba21-0033d2d85661" />
 <img width="571" height="90" alt="image" src="https://github.com/user-attachments/assets/804c13ce-9c49-4b0d-82fa-95989b93a865" />
+
+## If-Else Conditions
+
+    The if-else statement in shell scripting is used to execute commands conditionally based on whether a given expression evaluates to true or false.
+<img width="577" height="334" alt="image" src="https://github.com/user-attachments/assets/f68cac26-9ecd-4a81-bd1e-ea1a7566482b" />
+
+
