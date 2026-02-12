@@ -17,4 +17,9 @@
 <img width="574" height="136" alt="image" src="https://github.com/user-attachments/assets/687d86bf-3c2e-4ce8-8cb3-9da0536f2f10" />
 <img width="570" height="68" alt="image" src="https://github.com/user-attachments/assets/5e33627e-a559-4150-b722-f223280f44bd" />
 
-    
+## User Input with read
+
+    In shell scripting, the read command is used to take input from the user and store it in a variable for later use.
+<img width="570" height="28" alt="image" src="https://github.com/user-attachments/assets/fb9e393f-9b79-4578-afdc-bfd31e8297a3" />
+<img width="569" height="130" alt="image" src="https://github.com/user-attachments/assets/02d21dcf-5521-4c7f-ba21-0033d2d85661" />
+<img width="571" height="90" alt="image" src="https://github.com/user-attachments/assets/804c13ce-9c49-4b0d-82fa-95989b93a865" />
