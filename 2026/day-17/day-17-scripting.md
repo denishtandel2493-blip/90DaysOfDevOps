@@ -10,3 +10,15 @@
     This is useful for automating repetitive tasks.
 <img width="694" height="209" alt="image" src="https://github.com/user-attachments/assets/b38bfdf5-adf0-4206-861e-a28833ccebf4" />
 <img width="909" height="209" alt="image" src="https://github.com/user-attachments/assets/3978d8f7-5cae-4477-8dfd-7ed8ef2db2d3" />
+
+# Command-Line Arguments
+    In Unix shell scripting, command-line arguments allow you to pass data to a script at runtime, making it more dynamic and reusable. 
+    These arguments are accessed inside the script using special variables.
+<img width="796" height="141" alt="image" src="https://github.com/user-attachments/assets/e83b1168-6ae5-4d0c-942a-331fe8212b4c" />
+<img width="802" height="165" alt="image" src="https://github.com/user-attachments/assets/243e4b84-08a3-4126-99ae-fa75f78cf522" />
+
+#  Install Packages via Script
+<img width="999" height="581" alt="image" src="https://github.com/user-attachments/assets/48821c5a-ae97-4ba3-bdb4-a96911042b68" />
+<img width="1026" height="521" alt="image" src="https://github.com/user-attachments/assets/817d7f2f-074c-4ec7-ac3d-451b7b53f8c9" />
+
+        
