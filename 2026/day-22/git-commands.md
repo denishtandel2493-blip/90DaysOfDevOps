@@ -1,3 +1,3 @@
 # Git Commands Reference
 ## Setup & Config
-git init
+    git init
