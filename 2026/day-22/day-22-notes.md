@@ -1,4 +1,4 @@
-<img width="765" height="600" alt="image" src="https://github.com/user-attachments/assets/b120b324-bf28-4ee9-b84c-ec5c39debc93" /># Day-22 Challenge
+# Day-22 Challenge
 ##  Install and Configure Git
     Git is a free and open-source version control system for software development. It helps manage different versions of code within a repository (repo).
     To associate your identity with Git commits, you need to configure your name and email
@@ -12,9 +12,13 @@
 <img width="765" height="600" alt="image" src="https://github.com/user-attachments/assets/e2c692a3-ee2b-425b-aa6f-a858c1f4fa6e" />
 
 # Stage and Commit
+## Stage
         Staging means, You are preparing files to be saved in Git.
         When you modify or create a file, Git does NOT automatically save it in history.You must first add it to the staging area.
 <img width="759" height="435" alt="image" src="https://github.com/user-attachments/assets/13efb713-deea-4eb6-a606-428ebe86d432" />
+## Commit
+        Commit means, You permanently save the staged changes in Git history.
+<img width="770" height="299" alt="image" src="https://github.com/user-attachments/assets/8ef8c646-6813-4cab-a5eb-698dae1171d1" />
 
 
 
