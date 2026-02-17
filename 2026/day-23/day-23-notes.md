@@ -38,4 +38,7 @@
             -      Run This Command:  git remote add origin https://github.com/username/my-project.git
             -      Verify remote:      git remote -v
 <img width="853" height="907" alt="image" src="https://github.com/user-attachments/assets/4560c87c-41c8-433f-aaeb-8989e5fd6f9d" />
-
+##  Pull from GitHub
+            Pulling from GitHub is a common operation that updates your local repository with changes from a remote repository
+            Git, pull means, Download changes from remote repository and merge them into your current branch
+<img width="852" height="323" alt="image" src="https://github.com/user-attachments/assets/c2c11567-4489-4bd7-8b1e-13677b6632a4" />
