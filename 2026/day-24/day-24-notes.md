@@ -24,3 +24,27 @@
         Switch to feature-dashboard and rebase it onto main
 <img width="850" height="724" alt="image" src="https://github.com/user-attachments/assets/b2fb68d2-ab20-4e9c-b569-0b802cea4b9d" />
 
+##  Squash Commit
+        A squash commit combines all feature branch commits into one single commit before merging.
+<img width="851" height="974" alt="image" src="https://github.com/user-attachments/assets/c99ceb26-161a-4fa6-822a-174e821ddfeb" />
+<img width="860" height="939" alt="image" src="https://github.com/user-attachments/assets/7cb1667d-de9a-4897-8c7b-1e7d4e9a92e7" />
+
+## Merge Commit
+        A merge commit is created when you merge a branch normally.
+<img width="864" height="1000" alt="image" src="https://github.com/user-attachments/assets/be049923-9b2e-4ec5-b1a1-d6eaaf671103" />
+<img width="844" height="661" alt="image" src="https://github.com/user-attachments/assets/f971441c-742c-4e5a-a482-04067c708b71" />
+
+## Git Stash
+        You are working on feature-1 branch and 
+            You modified some files
+            You did NOT commit yet
+            Suddenly you need to switch to master branch
+        Git may not allow switching if changes conflict.
+    error: Your local changes to the following files would be overwritten by checkout:
+           Filename.txt
+        Please commit your changes or stash them before you switch branches to Aborting
+<img width="851" height="458" alt="image" src="https://github.com/user-attachments/assets/c30dbc50-70b1-426e-bffd-797451bf7ccb" />
+
+## Cherry Picking
+
+
