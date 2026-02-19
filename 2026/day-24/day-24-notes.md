@@ -46,5 +46,8 @@
 <img width="851" height="458" alt="image" src="https://github.com/user-attachments/assets/c30dbc50-70b1-426e-bffd-797451bf7ccb" />
 
 ## Cherry Picking
+        Taking one specific commit from one branch. Applying it to another branch
+<img width="850" height="84" alt="image" src="https://github.com/user-attachments/assets/5e474a41-65d9-4c6e-a238-ac1f4d3367a4" />
+<img width="1226" height="968" alt="image" src="https://github.com/user-attachments/assets/e915f269-b5f0-48c7-b85c-9f3ee919fb7d" />
 
 
