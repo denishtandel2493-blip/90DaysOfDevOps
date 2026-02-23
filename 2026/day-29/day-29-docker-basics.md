@@ -5,7 +5,10 @@
     Containers run on top of the host OS kernel.
 # Virtual Machine (VM)
     A VM runs on top of a Hypervisor and includes a full operating system.
-# A container shares the host OS kernel (lightweight & fast), while a virtual machine runs its own full OS (heavier but more isolated).
+    A container shares the host OS kernel (lightweight & fast), while a virtual machine runs its own full OS (heavier but more isolated).
 # Docker architecture
     Docker architecture is a client-server model where the Docker client communicates with the Docker daemon, which manages containers using images stored locally or in a registry.
 <img width="325" height="165" alt="image" src="https://github.com/user-attachments/assets/6ecd01d2-0e23-4566-b2f2-a24ea77fe4cf" />
+# Install Docker
+<img width="1313" height="965" alt="image" src="https://github.com/user-attachments/assets/d611ab44-9597-4601-bacc-71e44130bdd5" />
+<img width="1288" height="1014" alt="image" src="https://github.com/user-attachments/assets/81546555-c2a9-419b-9f66-6bfa425855d2" />
