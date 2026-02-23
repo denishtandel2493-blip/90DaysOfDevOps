@@ -8,10 +8,4 @@
 # A container shares the host OS kernel (lightweight & fast), while a virtual machine runs its own full OS (heavier but more isolated).
 # Docker architecture
     Docker architecture is a client-server model where the Docker client communicates with the Docker daemon, which manages containers using images stored locally or in a registry.
-    Docker Client
-     ↓
-    Docker Daemon (dockerd)
-     ↓
-    Docker Registry (if image not local)
-     ↓
-    Container Created & Started
+<img width="325" height="165" alt="image" src="https://github.com/user-attachments/assets/6ecd01d2-0e23-4566-b2f2-a24ea77fe4cf" />
