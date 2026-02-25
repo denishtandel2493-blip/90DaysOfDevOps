@@ -1,6 +1,6 @@
-Linux-Cheatsheet
+# Day-03 Challenge
 
-1) Process management command:
+## Process management command:
 
     1.  ps  :-  Show process status. Often used with grep e.g.,  ps-aux
 
@@ -12,19 +12,19 @@ Linux-Cheatsheet
 
     5. pgrep :- This command used to search process by name and return their process ID (PID).  e.g., pgrep <name>S earch PID by Name
 
-2) File system command:
+## File system command:
 
-   1. pwd (present working directory) :- The pwd command shows the current location in the system.
+       1. pwd (present working directory) :- The pwd command shows the current location in the system.
   
-   2. ls (list files and directories) :- The ls command is used to list the files and directories in the current directory.
+       2. ls (list files and directories) :- The ls command is used to list the files and directories in the current directory.
   
-   3. cd (change directory) :- The cd command is used to move between folders.
+       3. cd (change directory) :- The cd command is used to move between folders.
   
-   4. mkdir (make directory) :- allows you to create new folders within your existing file system.
-  
-   5.  rmdir (remove directory) :- remove directory permanaemtally.
+       4. mkdir (make directory) :- allows you to create new folders within your existing file system.
+      
+       5. rmdir (remove directory) :- remove directory permanaemtally.
    
-3) Networking troubleshooting command: 
+## Networking troubleshooting command: 
 
     1. ping :- The ping command is used to ensure that a computer can communicate with a specified device over the network.
   
