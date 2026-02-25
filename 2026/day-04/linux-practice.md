@@ -1,6 +1,6 @@
-Basic linux commands
+# Basic linux commands
 
-CHECK RUNNING PROCESSES COMMAND
+## CHECK RUNNING PROCESSES COMMAND
 
   - ``htop`` --> Display sorted information about processes with visual highlights. It allows you to scroll vertically and horizontally, so you can see every process running on your system and commands.
 
@@ -10,7 +10,7 @@ CHECK RUNNING PROCESSES COMMAND
 
   <img width="471" height="116" alt="image" src="https://github.com/user-attachments/assets/a570db88-b9f1-4928-86c9-2473aaf7a9bb" />
 
-SERVICE COMMAND
+## SERVICE COMMAND
 
   - ``systemctl status sshd.service`` --> Displays the detailed status of a specific service, including whether it is active (running) or inactive (stopped), and recent log entries.
 
@@ -21,7 +21,7 @@ SERVICE COMMAND
 
   <img width="1880" height="229" alt="image" src="https://github.com/user-attachments/assets/f63e4ed9-2fe1-4eb4-9300-30c29d6b3910" />
 
-LOG COMMAND
+## LOG COMMAND
 
 - ``journalctl -u <service>`` --> On modern Linux systems using systemd, this command is used to view logs collected by the systemd journal. It offers robust filtering options by time, service, or priority.
 
