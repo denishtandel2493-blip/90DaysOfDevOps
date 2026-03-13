@@ -29,3 +29,4 @@
 
 ### ENTRYPOINT
         Defines the main executable of the container, and arguments from docker run are appended to it.
+<img width="1013" height="412" alt="image" src="https://github.com/user-attachments/assets/64c5ef47-3967-45f8-9802-819fcbd395b2" />
