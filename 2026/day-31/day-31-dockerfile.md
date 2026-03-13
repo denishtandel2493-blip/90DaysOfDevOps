@@ -19,5 +19,11 @@
 
 <img width="1023" height="522" alt="image" src="https://github.com/user-attachments/assets/053b77b9-5806-44c2-98ba-705d207c3005" />
 <img width="1018" height="991" alt="image" src="https://github.com/user-attachments/assets/9188bcfa-0ff6-4aee-8d59-be5b691c1003" />
-<img width="1012" height="1008" alt="image" src="https://github.com/user-attachments/assets/c540f380-4b06-41a7-9741-5aa46131c082" />
 <img width="1009" height="980" alt="image" src="https://github.com/user-attachments/assets/92d3f11c-a168-45b5-90a0-3766c65e0c76" />
+
+## CMD vs ENTRYPOINT
+### CMD
+        CMD was Replace by the new command.
+        Default command for the container that can be overridden when running the container.
+<img width="1016" height="548" alt="image" src="https://github.com/user-attachments/assets/f29b3257-4f4a-48ca-94cd-dfc069af948d" />
+### ENTRYPOINT
