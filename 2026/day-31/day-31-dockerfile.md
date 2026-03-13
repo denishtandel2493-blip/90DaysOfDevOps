@@ -30,3 +30,19 @@
 ### ENTRYPOINT
         Defines the main executable of the container, and arguments from docker run are appended to it.
 <img width="1013" height="412" alt="image" src="https://github.com/user-attachments/assets/64c5ef47-3967-45f8-9802-819fcbd395b2" />
+
+## Build a Simple Web App Image
+        Creating HTML file 
+        Writing a Dockerfile
+        Building an image
+        Running a container
+        Port mapping
+<img width="955" height="970" alt="image" src="https://github.com/user-attachments/assets/91f6bcff-9ff5-410b-8192-b27505104d5b" />
+<img width="954" height="822" alt="image" src="https://github.com/user-attachments/assets/af225e95-7fae-48ca-9539-4e349bd3c53c" />
+<img width="1548" height="343" alt="image" src="https://github.com/user-attachments/assets/5f03e574-a914-4f76-895f-f0061adf321d" />
+
+
+
+
+
+        
