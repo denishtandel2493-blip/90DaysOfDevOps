@@ -37,6 +37,7 @@
         Building an image
         Running a container
         Port mapping
+<img width="957" height="217" alt="image" src="https://github.com/user-attachments/assets/9b11b5b7-8931-48f6-95e8-9fd8f39c7593" />
 <img width="955" height="970" alt="image" src="https://github.com/user-attachments/assets/91f6bcff-9ff5-410b-8192-b27505104d5b" />
 <img width="954" height="822" alt="image" src="https://github.com/user-attachments/assets/af225e95-7fae-48ca-9539-4e349bd3c53c" />
 <img width="1548" height="343" alt="image" src="https://github.com/user-attachments/assets/5f03e574-a914-4f76-895f-f0061adf321d" />
