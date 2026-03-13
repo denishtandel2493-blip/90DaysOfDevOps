@@ -27,3 +27,4 @@
         Default command for the container that can be overridden when running the container.
 <img width="1016" height="548" alt="image" src="https://github.com/user-attachments/assets/f29b3257-4f4a-48ca-94cd-dfc069af948d" />
 ### ENTRYPOINT
+        Defines the main executable of the container, and arguments from docker run are appended to it.
