@@ -29,5 +29,17 @@
 ##  Install kubectl
 <img width="1029" height="589" alt="image" src="https://github.com/user-attachments/assets/814478ee-3cc6-41a4-84af-ee86f4f8a197" />
 
+## Install kind (Kubernetes in Docker)
+<img width="750" height="392" alt="image" src="https://github.com/user-attachments/assets/ab5f9802-d9ea-48f8-a323-df5f2806f3ab" />
+<img width="1074" height="621" alt="image" src="https://github.com/user-attachments/assets/70e130d5-a99e-45ab-bce8-5a9aeed90e9d" />
+
+## Explore Your Cluster
+<img width="1622" height="1011" alt="image" src="https://github.com/user-attachments/assets/60c046c3-35bf-41f1-98aa-dba6d5872d22" />
+<img width="1691" height="967" alt="image" src="https://github.com/user-attachments/assets/1a7ddb00-655a-4240-bb48-c71fade8bb34" />
+<img width="1477" height="734" alt="image" src="https://github.com/user-attachments/assets/e8747e22-ecd1-4c4b-a2d7-2059e7a9a94d" />
+
+
+
+
     
     
