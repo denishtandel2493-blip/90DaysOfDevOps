@@ -28,3 +28,11 @@
     Using a Secret in a Pod is very similar to ConfigMaps, but for sensitive data like passwords, tokens, etc.
     Secrets can be injected into Pods as environment variables or mounted as files.
     Volumes are preferred for sensitive data like certificates.
+<img width="1171" height="961" alt="image" src="https://github.com/user-attachments/assets/aa712aaa-1938-4b86-8bf2-b103e30a1079" />
+<img width="1156" height="898" alt="image" src="https://github.com/user-attachments/assets/db8ae509-a437-4b70-b43f-1141c471f969" />
+
+## Update a ConfigMap and Observe Propagation
+    ConfigMap updates are reflected automatically in volume mounts, but environment variables require a Pod restart
+<img width="1058" height="741" alt="image" src="https://github.com/user-attachments/assets/96dc32fc-6669-4ada-bc62-9fb3f65db7cf" />
+<img width="1071" height="587" alt="image" src="https://github.com/user-attachments/assets/1462b5a8-0d1a-43b0-b806-1a4b7303cca0" />
+<img width="1739" height="926" alt="image" src="https://github.com/user-attachments/assets/2d3b4536-4e4c-436a-b384-1da3f7653c4e" />
