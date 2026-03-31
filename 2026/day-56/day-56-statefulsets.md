@@ -27,6 +27,23 @@ Random pod names are a problem because database clusters require stable identiti
 
 ## Stable Network Identity
     Stable network identity means each Pod in a StatefulSet gets a fixed hostname and DNS that does not change, even if the Pod is restarted
-    
+    In a StatefulSet, each Pod has a stable DNS name that resolves directly to its Pod IP via a Headless Service
+    Yes — the nslookup IP matches the Pod IP exactly
+<img width="940" height="485" alt="image" src="https://github.com/user-attachments/assets/efe29d6d-49e6-4083-aa95-88a936ee5a0e" />
+
+## Stable Storage — Data Survives Pod Deletion
+    In StatefulSets, each Pod has its own persistent volume, so data survives Pod deletion and is reattached when the Pod is recreated
+    Pod deleted → recreated
+     Same Pod name
+     Same storage attached
+     Data still exists
+<img width="937" height="554" alt="image" src="https://github.com/user-attachments/assets/19b4ffa9-4f38-414f-86ef-92d567a406b4" />
+
+## Ordered Scaling
+    Ordered scaling means Pods in a StatefulSet are created and deleted in a strict sequence (one-by-one), not all at once
+    StatefulSets scale Pods in order, ensuring safe startup and shutdown for stateful applications
+    Scaling down a StatefulSet does not delete PVCs; they are retained to preserve data for future use
+<img width="923" height="862" alt="image" src="https://github.com/user-attachments/assets/405b2448-b643-404f-83c6-090cac4512c9" />
+
 
 
