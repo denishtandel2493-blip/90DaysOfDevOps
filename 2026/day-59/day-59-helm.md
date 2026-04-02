@@ -30,3 +30,6 @@
 <img width="1472" height="987" alt="image" src="https://github.com/user-attachments/assets/fba37dd5-003f-4798-bf6a-54e65f6af634" />
 <img width="1271" height="981" alt="image" src="https://github.com/user-attachments/assets/2332613d-f54a-4005-bddb-074cde3e9c1a" />
 
+## Customize with Values
+    It’s a file used to override default settings in a Helm chart. Instead of editing YAML templates, you just change values here
+
