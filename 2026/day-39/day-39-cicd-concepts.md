@@ -35,6 +35,40 @@ Continuous Deployment
     Real-world example:
         A company like Netflix can automatically deploy small backend updates to production after all automated tests and monitoring checks pass.
 
+## Pipeline Anatomy
+Trigger
+                
+    A trigger starts the pipeline automatically. It can happen when code is pushed, a pull request is created, a schedule runs, or a manual button is clicked.
+Stage
+    
+    A stage is a major phase of the pipeline. Stages organize work into groups like Build, Test, Security Scan, and Deploy.
+    Example stages: 1] Build 2] Test 3] Deploy 4] Jobs
+Job
+
+    A job is a set of related tasks inside a stage. Jobs usually run on a machine/runner and can run in parallel.
+    Example: In the Test stage: Unit Test Job, Integration Test Job
+Step
+
+    A step is a single action inside a job. Steps execute commands or reusable actions one by one.
+    Example steps: 1] Install dependencies 2] Run tests 3] Build Docker image
+Runner
+
+    A runner is the machine that executes the pipeline jobs. It can be a cloud-hosted VM or a self-hosted server.
+    Example: GitHub Actions uses Ubuntu runners like ubuntu-latest.
+Artifact
+    
+    An artifact is a file produced by the pipeline and saved for later use.
+    Artifacts help share outputs between stages or download build results.    
+    Examples: Compiled application files, Docker images, Test reports, Logs and backups
+   
+    
+    
+    
+
+    
+    
+    
+
     
         
     
