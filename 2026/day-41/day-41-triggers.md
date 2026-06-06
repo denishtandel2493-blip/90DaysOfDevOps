@@ -26,8 +26,8 @@
         A Matrix Build lets you run the same job multiple times with different configurations 
         (such as different operating systems, programming language versions, or environments)
 <img width="1860" height="779" alt="image" src="https://github.com/user-attachments/assets/31999a55-6355-47e3-8916-1875387e5320" />
-##  Exclude & Fail-Fast
 
+##  Exclude & Fail-Fast
     1] Exclude
             The exclude keyword is used to remove specific combinations from a matrix
             Example:
