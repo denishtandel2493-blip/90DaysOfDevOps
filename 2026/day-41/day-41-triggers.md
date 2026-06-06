@@ -17,3 +17,10 @@
 
 ## Manual Trigger 
         allows you to start a workflow yourself from the GitHub web interface instead of waiting for a push, pull request, or schedule.
+<img width="608" height="421" alt="image" src="https://github.com/user-attachments/assets/149644e5-5cfa-4dc6-af76-dbf36e9b682e" />
+        
+        Can you trigger it manually and see your input printed ?
+                No, I can't trigger workflows in your GitHub repository, 
+                but you can run it from the Actions → Run workflow button and verify the input is printed in the logs
+## 
+                
