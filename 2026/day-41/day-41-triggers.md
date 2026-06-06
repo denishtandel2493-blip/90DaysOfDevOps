@@ -22,5 +22,35 @@
         Can you trigger it manually and see your input printed ?
                 No, I can't trigger workflows in your GitHub repository, 
                 but you can run it from the Actions → Run workflow button and verify the input is printed in the logs
-## 
-                
+##  Matrix Builds
+        A Matrix Build lets you run the same job multiple times with different configurations 
+        (such as different operating systems, programming language versions, or environments)
+<img width="1860" height="779" alt="image" src="https://github.com/user-attachments/assets/31999a55-6355-47e3-8916-1875387e5320" />
+##  Exclude & Fail-Fast
+    1] Exclude
+            The exclude keyword is used to remove specific combinations from a matrix
+            Example:
+                    strategy:
+                      matrix:
+                        os: [ubuntu-latest, windows-latest]
+                        python-version: ["3.10", "3.11"]
+                    
+                        exclude:
+                          - os: windows-latest
+                            python-version: "3.10"
+            The combination windows-latest + Python 3.10 is excluded and will not run
+    2] Fail-Fast
+            fail-fast controls what happens when one matrix job fails.
+            If any matrix job fails, GitHub Actions cancels the remaining running or queued matrix jobs to save time and resources.                
+                Example :    
+                    strategy:
+                      fail-fast: true
+                      matrix:
+                        python-version: ["3.10", "3.11", "3.12"]
+
+            To allow all matrix jobs to finish even if one fails
+
+    Exclude: Removes unwanted matrix combinations.
+    Fail-Fast: true: Stops other matrix jobs when one fails.
+    Fail-Fast: false: Allows all matrix jobs to run to completion, even if some fail.
+
