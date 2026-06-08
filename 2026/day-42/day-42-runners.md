@@ -17,4 +17,7 @@
 ##  Explore What's Pre-installed
     GitHub-hosted runners come with many commonly used tools and languages already installed. 
     This saves time because you don't need to install them every time your workflow runs.
+    Commonly Pre-installed Software:-
+      On ubuntu-latest, GitHub typically includes:  Git, Python, Node.js, npm, Java, Docker, .NET SDK, Go, Ruby, Rust, PowerShell
+      
 ## Set Up a Self-Hosted Runner
