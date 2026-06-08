@@ -21,3 +21,13 @@
       On ubuntu-latest, GitHub typically includes:  Git, Python, Node.js, npm, Java, Docker, .NET SDK, Go, Ruby, Rust, PowerShell
       
 ## Set Up a Self-Hosted Runner
+      A Self-Hosted Runner is a machine that you manage yourself and connect to GitHub Actions. Instead of running workflows on GitHub's servers, workflows run on your own computer, VM, or server.
+
+      Why Use a Self-Hosted Runner?
+      1]      Access to internal/private networks
+      2]      Use custom software or hardware
+      3]      Run jobs on powerful servers
+      4]      Use GPUs or specialized devices
+      5]      Avoid GitHub-hosted runner limits
+
+## 
