@@ -17,8 +17,12 @@
       web:
         image: nginx
         ports:
-          - "8080:80"
+          - "9090:80"
     I started the container using docker compose up -d and verified it was running successfully with docker compose ps. 
     Accessing http://localhost:8080 displayed the Nginx welcome page.
+<img width="1404" height="401" alt="image" src="https://github.com/user-attachments/assets/c6e25b5a-3bbd-4492-8534-a4684b58df20" />
+
+## Two-Container Setup
+        
 
 
